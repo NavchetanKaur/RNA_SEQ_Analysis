@@ -22,8 +22,10 @@ __pycache__/*
 .installed.cfg
 *.egg-info
 
+Homo_sapiens.GRCh38.95.chr.gtf
+Homo_sapiens.GRCh38.cdna.all.fa
 /extras
-
+RSEM_tutorial/
 1_hg38
 rsem_star_pe_Error_log.txt
 rsem_star_pe_Output_log.txt
